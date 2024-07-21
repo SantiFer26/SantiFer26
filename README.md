@@ -1,4 +1,9 @@
 ## ¡Hola! Me llamo Santiago 👋
+Soy estudiante de Sistemas, actualmente dando mis primeros pasos en el mundo de la programación.
+
+## 🌱 Actualmente estoy aprendiendo:
+- Git
+- GitHub
 
 <!--
 **SantiFer26/SantiFer26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
