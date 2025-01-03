@@ -4,6 +4,7 @@ Soy estudiante de Sistemas, actualmente dando mis primeros pasos en el mundo de 
 ## 🌱 Actualmente estoy aprendiendo:
 - Git
 - GitHub
+- Python
 
 <!--
 **SantiFer26/SantiFer26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
