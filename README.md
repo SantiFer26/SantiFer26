@@ -1,5 +1,5 @@
 ## ¡Hola! Me llamo Santiago 👋
-Soy estudiante de Sistemas, actualmente dando mis primeros pasos en el mundo de la programación.
+Soy estudiante de Sistemas, y estoy dando mis primeros pasos en el mundo de la programación.
 
 ## 🌱 Actualmente estoy aprendiendo:
 - Git
